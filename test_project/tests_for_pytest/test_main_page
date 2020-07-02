@@ -1,0 +1,8 @@
+# test_main_page 
+# номер 1
+def main_page_buttons(browser):
+    print('test 1 called')
+
+# номер 2
+def test_main_page_navbar(browser):
+    print('test 2 called')
